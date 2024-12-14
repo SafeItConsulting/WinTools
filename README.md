@@ -1,0 +1,11 @@
+https://github.com/The-Viper-One/PsMapExec
+https://github.com/samratashok/ADModule
+https://github.com/r3motecontrol/Ghostpack-CompiledBinaries
+https://github.com/samratashok/nishang
+https://github.com/S3cur3Th1sSh1t/PowerSharpPack
+https://github.com/PowerShellMafia/PowerSploit
+https://github.com/S3cur3Th1sSh1t/WinPwn
+https://github.com/GhostPack/PSPKIAudit
+https://github.com/NetSPI/PowerUpSQL
+https://github.com/matterpreter/DefenderCheck
+https://github.com/gentilkiwi/kekeo
