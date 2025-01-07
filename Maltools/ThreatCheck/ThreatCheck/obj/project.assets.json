@@ -1,0 +1,285 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {
+      "CommandLineParser/2.9.1": {
+        "type": "package",
+        "compile": {
+          "lib/net461/CommandLine.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net461/CommandLine.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.PowerShell.5.1.ReferenceAssemblies/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net461/System.Management.Automation.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net461/System.Management.Automation.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win": {
+      "CommandLineParser/2.9.1": {
+        "type": "package",
+        "compile": {
+          "lib/net461/CommandLine.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net461/CommandLine.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.PowerShell.5.1.ReferenceAssemblies/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net461/System.Management.Automation.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net461/System.Management.Automation.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-arm64": {
+      "CommandLineParser/2.9.1": {
+        "type": "package",
+        "compile": {
+          "lib/net461/CommandLine.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net461/CommandLine.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.PowerShell.5.1.ReferenceAssemblies/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net461/System.Management.Automation.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net461/System.Management.Automation.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-x64": {
+      "CommandLineParser/2.9.1": {
+        "type": "package",
+        "compile": {
+          "lib/net461/CommandLine.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net461/CommandLine.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.PowerShell.5.1.ReferenceAssemblies/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net461/System.Management.Automation.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net461/System.Management.Automation.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-x86": {
+      "CommandLineParser/2.9.1": {
+        "type": "package",
+        "compile": {
+          "lib/net461/CommandLine.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net461/CommandLine.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.PowerShell.5.1.ReferenceAssemblies/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net461/System.Management.Automation.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net461/System.Management.Automation.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CommandLineParser/2.9.1": {
+      "sha512": "OE0sl1/sQ37bjVsPKKtwQlWDgqaxWgtme3xZz7JssWUzg5JpMIyHgCTY9MVMxOg48fJ1AgGT3tgdH5m/kQ5xhA==",
+      "type": "package",
+      "path": "commandlineparser/2.9.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "CommandLine20.png",
+        "License.md",
+        "README.md",
+        "commandlineparser.2.9.1.nupkg.sha512",
+        "commandlineparser.nuspec",
+        "lib/net40/CommandLine.dll",
+        "lib/net40/CommandLine.xml",
+        "lib/net45/CommandLine.dll",
+        "lib/net45/CommandLine.xml",
+        "lib/net461/CommandLine.dll",
+        "lib/net461/CommandLine.xml",
+        "lib/netstandard2.0/CommandLine.dll",
+        "lib/netstandard2.0/CommandLine.xml"
+      ]
+    },
+    "Microsoft.PowerShell.5.1.ReferenceAssemblies/1.0.0": {
+      "sha512": "ty38eq/iyDtNIBaoe1o5MGepGR9Al3uDUwchVikbrJwH277JC8br3DVlaIgc996UyCe+J07Fubq9OByCc8CWEw==",
+      "type": "package",
+      "path": "microsoft.powershell.5.1.referenceassemblies/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net461/Microsoft.Management.Infrastructure.CimCmdlets.dll",
+        "lib/net461/Microsoft.Management.Infrastructure.Native.dll",
+        "lib/net461/Microsoft.Management.Infrastructure.dll",
+        "lib/net461/Microsoft.PowerShell.Activities.dll",
+        "lib/net461/Microsoft.PowerShell.Activities.xml",
+        "lib/net461/Microsoft.PowerShell.Commands.Diagnostics.dll",
+        "lib/net461/Microsoft.PowerShell.Commands.Management.dll",
+        "lib/net461/Microsoft.PowerShell.Commands.Management.xml",
+        "lib/net461/Microsoft.PowerShell.Commands.Utility.dll",
+        "lib/net461/Microsoft.PowerShell.Commands.Utility.xml",
+        "lib/net461/Microsoft.PowerShell.ConsoleHost.dll",
+        "lib/net461/Microsoft.PowerShell.ConsoleHost.xml",
+        "lib/net461/Microsoft.PowerShell.Core.Activities.dll",
+        "lib/net461/Microsoft.PowerShell.Core.Activities.xml",
+        "lib/net461/Microsoft.PowerShell.Diagnostics.Activities.dll",
+        "lib/net461/Microsoft.PowerShell.Diagnostics.Activities.xml",
+        "lib/net461/Microsoft.PowerShell.Editor.dll",
+        "lib/net461/Microsoft.PowerShell.GPowerShell.dll",
+        "lib/net461/Microsoft.PowerShell.GPowerShell.xml",
+        "lib/net461/Microsoft.PowerShell.GraphicalHost.dll",
+        "lib/net461/Microsoft.PowerShell.GraphicalHost.xml",
+        "lib/net461/Microsoft.PowerShell.ISECommon.dll",
+        "lib/net461/Microsoft.PowerShell.ISECommon.xml",
+        "lib/net461/Microsoft.PowerShell.Management.Activities.dll",
+        "lib/net461/Microsoft.PowerShell.Management.Activities.xml",
+        "lib/net461/Microsoft.PowerShell.PSReadLine.xml",
+        "lib/net461/Microsoft.PowerShell.Security.Activities.dll",
+        "lib/net461/Microsoft.PowerShell.Security.Activities.xml",
+        "lib/net461/Microsoft.PowerShell.Security.dll",
+        "lib/net461/Microsoft.PowerShell.Security.xml",
+        "lib/net461/Microsoft.PowerShell.Utility.Activities.dll",
+        "lib/net461/Microsoft.PowerShell.Utility.Activities.xml",
+        "lib/net461/Microsoft.Powershell.PSReadline.dll",
+        "lib/net461/Microsoft.Powershell.Workflow.ServiceCore.dll",
+        "lib/net461/Microsoft.Powershell.Workflow.ServiceCore.xml",
+        "lib/net461/System.Management.Automation.dll",
+        "lib/net461/System.Management.Automation.xml",
+        "microsoft.powershell.5.1.referenceassemblies.1.0.0.nupkg.sha512",
+        "microsoft.powershell.5.1.referenceassemblies.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": [
+      "CommandLineParser >= 2.9.1",
+      "Microsoft.PowerShell.5.1.ReferenceAssemblies >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Jeremy\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Jeremy\\Desktop\\ThreatCheck\\ThreatCheck\\ThreatCheck.csproj",
+      "projectName": "ThreatCheck",
+      "projectPath": "C:\\Users\\Jeremy\\Desktop\\ThreatCheck\\ThreatCheck\\ThreatCheck.csproj",
+      "packagesPath": "C:\\Users\\Jeremy\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jeremy\\Desktop\\ThreatCheck\\ThreatCheck\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\Jeremy\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "projectReferences": {}
+        }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net48": {
+        "dependencies": {
+          "CommandLineParser": {
+            "target": "Package",
+            "version": "[2.9.1, )"
+          },
+          "Microsoft.PowerShell.5.1.ReferenceAssemblies": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-arm64": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

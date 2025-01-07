@@ -9,3 +9,4 @@ https://github.com/GhostPack/PSPKIAudit
 https://github.com/NetSPI/PowerUpSQL
 https://github.com/matterpreter/DefenderCheck
 https://github.com/gentilkiwi/kekeo
+https://github.com/rasta-mouse/ThreatCheck

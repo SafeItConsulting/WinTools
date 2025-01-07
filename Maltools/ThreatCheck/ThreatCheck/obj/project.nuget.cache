@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iy1tNkZ9Vb4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jeremy\\Desktop\\ThreatCheck\\ThreatCheck\\ThreatCheck.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jeremy\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512",
+    "C:\\Users\\Jeremy\\.nuget\\packages\\microsoft.powershell.5.1.referenceassemblies\\1.0.0\\microsoft.powershell.5.1.referenceassemblies.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

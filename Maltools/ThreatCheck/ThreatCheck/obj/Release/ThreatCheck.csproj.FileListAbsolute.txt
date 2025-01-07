@@ -1,0 +1,10 @@
+C:\Users\Jeremy\Desktop\ThreatCheck\ThreatCheck\bin\Release\ThreatCheck.exe.config
+C:\Users\Jeremy\Desktop\ThreatCheck\ThreatCheck\bin\Release\ThreatCheck.exe
+C:\Users\Jeremy\Desktop\ThreatCheck\ThreatCheck\bin\Release\ThreatCheck.pdb
+C:\Users\Jeremy\Desktop\ThreatCheck\ThreatCheck\bin\Release\CommandLine.dll
+C:\Users\Jeremy\Desktop\ThreatCheck\ThreatCheck\bin\Release\System.Management.Automation.dll
+C:\Users\Jeremy\Desktop\ThreatCheck\ThreatCheck\obj\Release\ThreatCheck.csproj.AssemblyReference.cache
+C:\Users\Jeremy\Desktop\ThreatCheck\ThreatCheck\obj\Release\ThreatCheck.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Desktop\ThreatCheck\ThreatCheck\obj\Release\ThreatCh.46F6D8D3.Up2Date
+C:\Users\Jeremy\Desktop\ThreatCheck\ThreatCheck\obj\Release\ThreatCheck.exe
+C:\Users\Jeremy\Desktop\ThreatCheck\ThreatCheck\obj\Release\ThreatCheck.pdb
