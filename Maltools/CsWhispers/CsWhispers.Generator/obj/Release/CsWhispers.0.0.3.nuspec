@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CsWhispers</id>
+    <version>0.0.3</version>
+    <title>CsWhispers</title>
+    <authors>@_RastaMouse</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <readme>README.md</readme>
+    <description>Source generator to add D/Invoke and indirect syscall methods to a C# project.</description>
+    <copyright>Copyright (c) Daniel Duggan 2024</copyright>
+    <repository type="git" url="https://github.com/rasta-mouse/CsWhispers" commit="d35fa0b3445bf9898c9ae53a9c64ded68e0c9987" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Microsoft.CodeAnalysis.CSharp" version="4.8.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Jeremy\Desktop\WinTools\Maltools\CsWhispers\CsWhispers.Generator\bin\Release\netstandard2.0\CsWhispers.Generator.dll" target="analyzers\dotnet\cs\CsWhispers.Generator.dll" />
+    <file src="C:\Users\Jeremy\Desktop\WinTools\Maltools\CsWhispers\README.md" target="\README.md" />
+  </files>
+</package>

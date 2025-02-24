@@ -1,0 +1,7 @@
+C:\Users\Jeremy\Desktop\WinTools\Maltools\DefenderCheck\DefenderCheck\DefenderCheck\bin\Release\DefenderCheck.exe.config
+C:\Users\Jeremy\Desktop\WinTools\Maltools\DefenderCheck\DefenderCheck\DefenderCheck\bin\Release\DefenderCheck.exe
+C:\Users\Jeremy\Desktop\WinTools\Maltools\DefenderCheck\DefenderCheck\DefenderCheck\bin\Release\DefenderCheck.pdb
+C:\Users\Jeremy\Desktop\WinTools\Maltools\DefenderCheck\DefenderCheck\DefenderCheck\obj\Release\DefenderCheck.csproj.AssemblyReference.cache
+C:\Users\Jeremy\Desktop\WinTools\Maltools\DefenderCheck\DefenderCheck\DefenderCheck\obj\Release\DefenderCheck.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Desktop\WinTools\Maltools\DefenderCheck\DefenderCheck\DefenderCheck\obj\Release\DefenderCheck.exe
+C:\Users\Jeremy\Desktop\WinTools\Maltools\DefenderCheck\DefenderCheck\DefenderCheck\obj\Release\DefenderCheck.pdb

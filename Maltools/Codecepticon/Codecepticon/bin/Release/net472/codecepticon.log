@@ -1,0 +1,16 @@
+Run --help for more, or use the Command Line Generator HTML file to generate a command
+Run --help for more, or use the Command Line Generator HTML file to generate a command
+Run --help for more, or use the Command Line Generator HTML file to generate a command
+
+
+Run --help for more, or use the Command Line Generator HTML file to generate a command
+
+Run --help for more, or use the Command Line Generator HTML file to generate a command
+Codecepticon v1.2.3 [ Pavel Tsakalidis ]
+- For more information visit https://github.com/sadreck/Codecepticon
+
+Usage:
+    Codecepticon.exe --module [csharp|powershell|vba|sign] --help [OPTIONS]...
+    Codecepticon.exe --config [XML Config File]
+    
+Tip: Use the command line generator HTML file to make your life easier.

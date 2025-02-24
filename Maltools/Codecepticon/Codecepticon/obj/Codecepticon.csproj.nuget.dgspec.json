@@ -1,0 +1,99 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Jeremy\\Desktop\\WinTools\\Maltools\\Codecepticon\\Codecepticon\\Codecepticon.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Jeremy\\Desktop\\WinTools\\Maltools\\Codecepticon\\Codecepticon\\Codecepticon.csproj": {
+      "version": "1.2.3",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jeremy\\Desktop\\WinTools\\Maltools\\Codecepticon\\Codecepticon\\Codecepticon.csproj",
+        "projectName": "Codecepticon",
+        "projectPath": "C:\\Users\\Jeremy\\Desktop\\WinTools\\Maltools\\Codecepticon\\Codecepticon\\Codecepticon.csproj",
+        "packagesPath": "C:\\Users\\Jeremy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jeremy\\Desktop\\WinTools\\Maltools\\Codecepticon\\Codecepticon\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jeremy\\Desktop\\WinTools\\Maltools\\Codecepticon\\NuGet.Config",
+          "C:\\Users\\Jeremy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-public/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-tools/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Antlr4.Runtime.Standard": {
+              "target": "Package",
+              "version": "[4.9.2, )"
+            },
+            "Microsoft.Build": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[17.3.1, )"
+            },
+            "Microsoft.Build.Locator": {
+              "target": "Package",
+              "version": "[1.5.3, )"
+            },
+            "Microsoft.CodeAnalysis.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.3.3, )"
+            },
+            "Microsoft.CodeAnalysis.CSharp.Workspaces": {
+              "target": "Package",
+              "version": "[3.9.0, )"
+            },
+            "Microsoft.CodeAnalysis.Workspaces.MSBuild": {
+              "target": "Package",
+              "version": "[3.9.0, )"
+            },
+            "Microsoft.PowerShell.5.1.ReferenceAssemblies": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.Collections.Immutable": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

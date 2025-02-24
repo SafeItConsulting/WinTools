@@ -1,12 +1,24 @@
-https://github.com/The-Viper-One/PsMapExec
-https://github.com/samratashok/ADModule
-https://github.com/r3motecontrol/Ghostpack-CompiledBinaries
-https://github.com/samratashok/nishang
-https://github.com/S3cur3Th1sSh1t/PowerSharpPack
-https://github.com/PowerShellMafia/PowerSploit
-https://github.com/S3cur3Th1sSh1t/WinPwn
-https://github.com/GhostPack/PSPKIAudit
-https://github.com/NetSPI/PowerUpSQL
-https://github.com/matterpreter/DefenderCheck
-https://github.com/gentilkiwi/kekeo
-https://github.com/rasta-mouse/ThreatCheck
+- https://github.com/The-Viper-One/PsMapExec
+- https://github.com/samratashok/ADModule
+- https://github.com/r3motecontrol/Ghostpack-CompiledBinaries
+- https://github.com/samratashok/nishang
+- https://github.com/S3cur3Th1sSh1t/PowerSharpPack
+- https://github.com/PowerShellMafia/PowerSploit
+- https://github.com/S3cur3Th1sSh1t/WinPwn
+- https://github.com/GhostPack/PSPKIAudit
+- https://github.com/NetSPI/PowerUpSQL
+- https://github.com/matterpreter/DefenderCheck
+- https://github.com/gentilkiwi/kekeo
+- https://github.com/rasta-mouse/ThreatCheck
+- https://github.com/danielbohannon/Invoke-CradleCrafter
+- https://github.com/OmerYa/Invisi-Shell
+- https://github.com/danielbohannon/Invoke-Obfuscation
+- https://github.com/mgeeky/ProtectMyTooling
+- https://github.com/Flangvik/SharpCollection
+- https://github.com/sadreck/Codecepticon
+- https://github.com/mkaring/ConfuserEx
+- https://github.com/rasta-mouse/CsWhispers
+
+
+
+- https://gist.githubusercontent.com/Arno0x/2b223114a726be3c5e7a9cacd25053a2/raw/55923ead54bc937fa31922dae58d929a496ea11f/NetLoader.cs

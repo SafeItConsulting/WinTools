@@ -1,0 +1,11 @@
+C:\Users\Jeremy\Desktop\WinTools\Maltools\CsWhispers\CsWhispers.Generator\bin\Release\netstandard2.0\CsWhispers.Generator.deps.json
+C:\Users\Jeremy\Desktop\WinTools\Maltools\CsWhispers\CsWhispers.Generator\bin\Release\netstandard2.0\CsWhispers.Generator.dll
+C:\Users\Jeremy\Desktop\WinTools\Maltools\CsWhispers\CsWhispers.Generator\bin\Release\netstandard2.0\CsWhispers.Generator.pdb
+C:\Users\Jeremy\Desktop\WinTools\Maltools\CsWhispers\CsWhispers.Generator\obj\Release\netstandard2.0\CsWhispers.Generator.csproj.AssemblyReference.cache
+C:\Users\Jeremy\Desktop\WinTools\Maltools\CsWhispers\CsWhispers.Generator\obj\Release\netstandard2.0\CsWhispers.Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeremy\Desktop\WinTools\Maltools\CsWhispers\CsWhispers.Generator\obj\Release\netstandard2.0\CsWhispers.Generator.AssemblyInfoInputs.cache
+C:\Users\Jeremy\Desktop\WinTools\Maltools\CsWhispers\CsWhispers.Generator\obj\Release\netstandard2.0\CsWhispers.Generator.AssemblyInfo.cs
+C:\Users\Jeremy\Desktop\WinTools\Maltools\CsWhispers\CsWhispers.Generator\obj\Release\netstandard2.0\CsWhispers.Generator.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Desktop\WinTools\Maltools\CsWhispers\CsWhispers.Generator\obj\Release\netstandard2.0\CsWhispers.Generator.sourcelink.json
+C:\Users\Jeremy\Desktop\WinTools\Maltools\CsWhispers\CsWhispers.Generator\obj\Release\netstandard2.0\CsWhispers.Generator.dll
+C:\Users\Jeremy\Desktop\WinTools\Maltools\CsWhispers\CsWhispers.Generator\obj\Release\netstandard2.0\CsWhispers.Generator.pdb
