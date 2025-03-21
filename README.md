@@ -18,7 +18,8 @@
 - https://github.com/sadreck/Codecepticon
 - https://github.com/mkaring/ConfuserEx
 - https://github.com/rasta-mouse/CsWhispers
-
-
-
+- https://github.com/SpecterOps/BloodHound-Legacy
 - https://gist.githubusercontent.com/Arno0x/2b223114a726be3c5e7a9cacd25053a2/raw/55923ead54bc937fa31922dae58d929a496ea11f/NetLoader.cs
+- https://github.com/NetSPI/PowerHuntShares
+- https://github.com/itm4n/PrivescCheck
+- https://www.pingcastle.com/download/
