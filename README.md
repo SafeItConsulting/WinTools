@@ -23,3 +23,4 @@
 - https://github.com/NetSPI/PowerHuntShares
 - https://github.com/itm4n/PrivescCheck
 - https://www.pingcastle.com/download/
+- https://github.com/calebstewart/CVE-2021-1675
